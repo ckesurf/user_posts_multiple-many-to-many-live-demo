@@ -1,5 +1,5 @@
-# Active Record TV Land Lab
+# Active Record Two Models With Multiple Relationships
 
 ## Learning Goals
 
-- Build multiple relationships associations between models using Active Record macros and aliasing
+- Build multiple relationships between the same two models with aliasing
